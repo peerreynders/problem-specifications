@@ -640,6 +640,7 @@
           "scenarios": [
             "local-scope"
           ],
+          "property": "evaluate",
           "input": {
             "instructionsFirst": [
               ": + - ;",
@@ -649,14 +650,14 @@
               "1 1 +"
             ]
           },
-          "expected": {
-            "first": [
+          "expected": [
+            [
               0
             ],
-            "second": [
+            [
               2
             ]
-          }
+          ]
         }
       ]
     },
