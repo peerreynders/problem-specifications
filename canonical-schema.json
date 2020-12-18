@@ -158,6 +158,7 @@
       "enum": [
         "big-integer",
         "floating-point",
+        "immutable",
         "library-test",
         "unicode"
       ]
