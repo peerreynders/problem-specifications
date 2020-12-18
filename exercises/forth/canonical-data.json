@@ -635,7 +635,8 @@
             "This test is meant to determine if instructions that define      ",
             "words are executed in the state of the program or locally. For   ",
             "example, in OOP-based approaches, the words should be defined in ",
-            "instance the instructions were evaluated only.                   "
+            "the same scope, or local to the instance the instructions were   ",
+            "evaluated in.                                                    "
           ],
           "scenarios": [
             "local-scope"
