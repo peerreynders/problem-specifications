@@ -74,7 +74,7 @@
           "scenarios": [
             "immutable"
           ],
-          "property": "moment",
+          "property": "isEqual",
           "input": {
             "moment": "2015-01-24T23:59:59"
           },
